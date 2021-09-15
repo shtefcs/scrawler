@@ -91,4 +91,4 @@ val browser2 = JsoupBrowser[Task](connectionTimeout = 5.seconds,
 
 # Credits
 
-Greatly inspired by awesome [https://github.com/ruippeixotog/scala-scraper](Rui's scala-scraper) and python's Scrapy. Thank you!
+Greatly inspired by awesome [Rui's scala-scraper](https://github.com/ruippeixotog/scala-scraper) and python's Scrapy. Thank you! 
